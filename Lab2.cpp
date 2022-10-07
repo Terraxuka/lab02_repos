@@ -3,6 +3,8 @@
 // Лабораторна робота № 2.
 // Лінійні програми.
 // Варіант 18
+
+// Допустимо я зробив зміну
 #include <iostream>
 #include <cmath>
 using namespace std;
